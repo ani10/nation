@@ -1,0 +1,16 @@
+.saffron {
+  background-color: #FF9933;
+  height: 30vw;
+}
+.white {
+  background-color: #FFFFFF;
+  height: 30vw;
+}
+.green {
+  background-color: #138808;
+  height: 30vw;
+}
+
+.inner-cir {
+  margin: auto;
+}
